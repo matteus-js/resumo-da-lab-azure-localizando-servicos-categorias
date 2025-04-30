@@ -1,0 +1,1 @@
+# resumo-da-lab-azure-localizando-servicos-categorias
